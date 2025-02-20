@@ -7,10 +7,12 @@ To supplement this data, WHO also tracks the existence of evidence-based nationa
 this data is compared to the income group categorizing and per-capita GDP of these countries over the same year, available in the World Bank Group website.
 
 ## Takeaways
-  - GDP is positively correlated with survival for the most part, as countries with higher GDP tend to have lower death probabilities. This is not a very strong correlation for lower GDPs as there are many factors at play, with plenty of outliers.
-  - Death probability from these illnesses has only gone down in time, for all income groups.
+  - This data alone is not necessarily an indicator of a healthy society, as it only covers ages between 30 and 70. People who die before 30 are not included, and such deaths having a higher ratio would mean less survivors make it to past 30 to then die and contribute to this statistic.
   - The existence of guidelines for a particular disease seems to improve survival rates anywhere between 2 to 4 point percent (10 to 25 percent relative to the probabilities)
-  - There is a considerable disparity between death probabilities of countries with guidelines for all 4 diseases, but the sample size for countries that only partially have disease guidelines is small, so analyzing by guideline count on a total scale as opposed to per-guideline may not be very reliable
+  - There is a considerable disparity between death probabilities of countries with guidelines for all 4 diseases versus those with no guidelines whatsoever, but the sample size for countries that only partially have disease guidelines is small, so analyzing by guideline count on a total scale as opposed to per-guideline may not be very reliable.
+  - GDP is positively correlated with survival for the most part, as countries with higher GDP tend to have lower death probabilities. This is not a very strong correlation for lower GDPs as there are many factors at play, with plenty of outliers.
+
+
 
 ## Data Used
 
@@ -37,25 +39,29 @@ After the cleaning and merging work, we have two separate CSV files. The first s
 The second file also contains GDP information and tracks these data between the years 2000 and 2021
 
 ### Power BI Work
-**The PBIX file for this work can be found inside the files for this project**
+[**The PBIX file for this work can be found inside the files for this project**](https://github.com/MustafaBerkPolat/who-30to70-analysis/raw/refs/heads/main/Analysis%20of%20Probability%20of%20Dying%20Between%20Ages%2030%20and%2070%20From%20CVD,%20Cancer,%20Diabetes%20or%20CRD.pbix)
 
-The final prepared data is imported into Power BI, and visualized with six different pages. The slicers in the last two pages allow multiple years or countries to be checked simultaneously by holding Control while selecting additional entries.
+The final prepared data is imported into Power BI, and visualized with seven different pages. There are two global filters to control the continents and the gender identities included in the analysis. The slicers in the last three pages allow multiple years or countries to be checked simultaneously by holding Control while selecting additional entries.
 
 The first page covers the probability of death as it changes over the years between 2000 and 2021, categorized by World Bank income groups. To the left side of the page there are four filters for the existence of evidence-based guidelines for each individual health problem to filter these graphs.
-![Probability by World Bank Income Groups Per Year (2000-2021)](https://github.com/user-attachments/assets/b7164abd-aa52-4903-aab7-2660e72c8624)
+![Probability by World Bank Income Groups Per Year (2000-2021)](https://github.com/user-attachments/assets/22c78a59-9fd1-4012-9f66-305450869ed1)
 
 The second page covers the average probability for countries grouped by whether they have guidelines or not.
-![Probabilities by Individual Guidelines ](https://github.com/user-attachments/assets/1ba36d82-ada0-4237-8ef7-80c44897af3d)
+![Probabilities by Individual Guidelines ](https://github.com/user-attachments/assets/566eacca-670f-4d21-8225-c376eac80592)
 
 The third page covers the average probability based on how many of these diseases a country has guidelines for.
-![Probabilities by Guideline Count](https://github.com/user-attachments/assets/b329f20f-56de-4f80-b450-f00f243f6ce7)
+![Probabilities by Guideline Count](https://github.com/user-attachments/assets/63c78481-0be6-4f33-b784-61253b29bd8b)
 
 The fourth page covers the probability, GDP and income groups of countries globally on a map.
-![Probabilities by Country](https://github.com/user-attachments/assets/3192647c-1b10-4faa-a39d-c8e78f55efe8)
+![Probabilities by Country](https://github.com/user-attachments/assets/d56e6505-96ba-4708-88b2-3a615225c660)
 
-The fifth page covers the correlation between GDP and probability of death and contains a slider to show data for specific years, with the default set to show 2000 and 2021
-![Probability by GDP per Year](https://github.com/user-attachments/assets/059ad8d3-1c72-4191-a310-af4eea757140)
+The fifth page covers the correlation between GDP and probability of death and contains a slicer to show data for specific years, with the default set to show 2000 and 2021
+![Probability by GDP per Year](https://github.com/user-attachments/assets/4ebffe03-808b-4b57-9d4d-1bd10ba49299)
 
-The final page covers the change in the probability of death over time for individual countries.
-![Probability over Years per Country](https://github.com/user-attachments/assets/2ecad38f-42ee-46bc-b8ec-0d06f507b8a3)
+The sixth page covers the change in the probability of death over time for individual countries.
+![Probability over Years per Country](https://github.com/user-attachments/assets/dc373948-b310-403a-9311-823b0a6e1bc2)
+
+The final page covers the probability of death in each country ranked from low to high and their per-capita GDP, with slicers to control included income groups, lending categories, regions and years, as well as a counter to show how many countries ther are that pass the specified filters
+![Probabilities Ranking by Country](https://github.com/user-attachments/assets/2d5b521a-ac68-476c-b8c5-4e4a93883a0f)
+
 
