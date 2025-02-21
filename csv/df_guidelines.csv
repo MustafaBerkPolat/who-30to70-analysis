@@ -1,0 +1,195 @@
+Spatial Dimension,ParentLocationCode,Continent,Has Chronic Respiratory Disease Guidelines?,Country Code,Has Cancer Guidelines?,Has Diabetes Guidelines?,Has Cardiovascular Disease Guidelines?
+Madagascar,AFR,Africa,Yes,MDG,Yes,Yes,Yes
+Egypt,EMR,Eastern Mediterranean,Yes,EGY,Yes,Yes,Yes
+Angola,AFR,Africa,No,AGO,No,No,No
+Indonesia,SEAR,South-East Asia,Yes,IDN,Yes,Yes,Yes
+Nauru,WPR,Western Pacific,No,NRU,No,Yes,Yes
+Solomon Islands,WPR,Western Pacific,No,SLB,Yes,Yes,Yes
+Azerbaijan,EUR,Europe,Yes,AZE,Yes,Yes,Yes
+Slovenia,EUR,Europe,Yes,SVN,Yes,Yes,Yes
+Benin,AFR,Africa,Yes,BEN,Yes,Yes,Yes
+Senegal,AFR,Africa,Yes,SEN,Yes,Yes,Yes
+United Kingdom of Great Britain and Northern Ireland (the),EUR,Europe,Yes,GBR,Yes,Yes,Yes
+Russian Federation (the),EUR,Europe,Yes,RUS,Yes,Yes,Yes
+Saint Lucia,AMR,Americas,Yes,LCA,Yes,Yes,Yes
+Lithuania,EUR,Europe,Yes,LTU,Yes,Yes,Yes
+Uganda,AFR,Africa,Yes,UGA,Yes,Yes,Yes
+Lebanon,EMR,Eastern Mediterranean,Yes,LBN,Yes,Yes,Yes
+Barbados,AMR,Americas,No,BRB,Yes,No,Yes
+Myanmar,SEAR,South-East Asia,Yes,MMR,Yes,Yes,Yes
+Spain,EUR,Europe,Yes,ESP,Yes,Yes,Yes
+Paraguay,AMR,Americas,Yes,PRY,Yes,Yes,Yes
+Lao People's Democratic Republic (the),WPR,Western Pacific,No,LAO,Yes,Yes,Yes
+Sudan (the),EMR,Eastern Mediterranean,Yes,SDN,Yes,Yes,Yes
+Nicaragua,AMR,Americas,Yes,NIC,Yes,Yes,Yes
+Zimbabwe,AFR,Africa,No,ZWE,Yes,Yes,Yes
+Viet Nam,WPR,Western Pacific,Yes,VNM,Yes,Yes,Yes
+United Arab Emirates (the),EMR,Eastern Mediterranean,Yes,ARE,Yes,Yes,Yes
+Vanuatu,WPR,Western Pacific,Yes,VUT,Yes,Yes,Yes
+Guatemala,AMR,Americas,Yes,GTM,Yes,Yes,Yes
+Armenia,EUR,Europe,Yes,ARM,No,Yes,Yes
+Somalia,EMR,Eastern Mediterranean,No,SOM,No,No,No
+Libya,EMR,Eastern Mediterranean,No,LBY,Yes,Yes,Yes
+Australia,WPR,Western Pacific,Yes,AUS,Yes,Yes,Yes
+Iran (Islamic Republic of),EMR,Eastern Mediterranean,Yes,IRN,Yes,Yes,Yes
+Mauritius,AFR,Africa,Yes,MUS,Yes,Yes,Yes
+Ghana,AFR,Africa,Yes,GHA,Yes,Yes,Yes
+San Marino,EUR,Europe,No,SMR,Yes,No,Yes
+Korea (the Republic of),WPR,Western Pacific,Yes,KOR,No,No,Yes
+Estonia,EUR,Europe,Yes,EST,Yes,Yes,Yes
+Saudi Arabia,EMR,Eastern Mediterranean,Yes,SAU,Yes,Yes,Yes
+Japan,WPR,Western Pacific,No,JPN,Yes,Don't know,Yes
+Montenegro,EUR,Europe,Don't know,MNE,Yes,Yes,Yes
+Sri Lanka,SEAR,South-East Asia,Yes,LKA,Yes,Yes,Yes
+Germany,EUR,Europe,Yes,DEU,Yes,Yes,Yes
+Djibouti,EMR,Eastern Mediterranean,No,DJI,No,No,No
+Sweden,EUR,Europe,Yes,SWE,Yes,Yes,Yes
+Albania,EUR,Europe,Yes,ALB,Yes,Yes,Yes
+Kazakhstan,EUR,Europe,Yes,KAZ,Yes,Yes,Yes
+Saint Vincent and the Grenadines,AMR,Americas,Yes,VCT,Yes,Yes,Yes
+Hungary,EUR,Europe,Yes,HUN,Yes,Yes,Yes
+Canada,AMR,Americas,Yes,CAN,Yes,Yes,Yes
+Papua New Guinea,WPR,Western Pacific,No,PNG,Yes,No,Yes
+Nepal,SEAR,South-East Asia,Yes,NPL,Yes,Yes,Yes
+Tajikistan,EUR,Europe,Yes,TJK,Yes,Yes,Yes
+Dominica,AMR,Americas,Yes,DMA,No,Yes,Yes
+Central African Republic (the),AFR,Africa,No,CAF,Yes,Yes,Yes
+Argentina,AMR,Americas,Yes,ARG,Yes,Yes,Yes
+South Africa,AFR,Africa,Yes,ZAF,Yes,Yes,Yes
+Netherlands (the),EUR,Europe,Yes,NLD,Yes,Yes,Yes
+Congo (the),AFR,Africa,Yes,COG,No,Yes,Yes
+Afghanistan,EMR,Eastern Mediterranean,No,AFG,No,No,No
+Gambia (the),AFR,Africa,No,GMB,No,No,No
+Ethiopia,AFR,Africa,Yes,ETH,Yes,Yes,Yes
+Cyprus,EUR,Europe,Don't know,CYP,Don't know,Yes,Yes
+France,EUR,Europe,Yes,FRA,Yes,Yes,Yes
+Ireland,EUR,Europe,Yes,IRL,Yes,Yes,Yes
+Turkmenistan,EUR,Europe,Yes,TKM,Yes,Yes,Yes
+Monaco,EUR,Europe,No,MCO,No,No,No
+Niue,WPR,Western Pacific,Yes,NIU,No,Yes,Yes
+Belize,AMR,Americas,Yes,BLZ,No,No,Yes
+Iceland,EUR,Europe,Yes,ISL,Yes,Yes,Yes
+Malawi,AFR,Africa,Yes,MWI,Yes,Yes,Yes
+"Tanzania, United Republic of",AFR,Africa,Yes,TZA,Yes,Yes,Yes
+Colombia,AMR,Americas,Yes,COL,Yes,Yes,Yes
+Ecuador,AMR,Americas,Yes,ECU,No,Yes,Yes
+Sao Tome and Principe,AFR,Africa,No,STP,Yes,Yes,Yes
+Mozambique,AFR,Africa,Yes,MOZ,No,Yes,Yes
+Bahamas (the),AMR,Americas,Yes,BHS,Yes,Yes,Yes
+Botswana,AFR,Africa,Yes,BWA,Yes,Yes,Yes
+Guinea,AFR,Africa,Yes,GIN,Yes,Yes,Yes
+Israel,EUR,Europe,No,ISR,No,No,No
+Pakistan,EMR,Eastern Mediterranean,No,PAK,No,No,No
+Mexico,AMR,Americas,Yes,MEX,Yes,Yes,Yes
+Fiji,WPR,Western Pacific,Yes,FJI,Yes,Yes,Yes
+Bahrain,EMR,Eastern Mediterranean,Yes,BHR,Yes,Yes,Yes
+Republic of North Macedonia,EUR,Europe,Yes,MKD,Yes,Yes,Yes
+Belarus,EUR,Europe,Yes,BLR,Yes,Yes,Yes
+Finland,EUR,Europe,Yes,FIN,Yes,Yes,Yes
+Yemen,EMR,Eastern Mediterranean,No,YEM,No,No,No
+Peru,AMR,Americas,Yes,PER,No,Yes,Yes
+Uzbekistan,EUR,Europe,Yes,UZB,Yes,Yes,Yes
+Bulgaria,EUR,Europe,Yes,BGR,Yes,Yes,Yes
+Thailand,SEAR,South-East Asia,Yes,THA,Yes,Yes,Yes
+South Sudan,AFR,Africa,Yes,SSD,Yes,Yes,Yes
+Kenya,AFR,Africa,Yes,KEN,Yes,Yes,Yes
+Côte d'Ivoire,AFR,Africa,Yes,CIV,Yes,Yes,Yes
+Guinea-Bissau,AFR,Africa,No,GNB,No,No,No
+Nigeria,AFR,Africa,No,NGA,No,No,Yes
+New Zealand,WPR,Western Pacific,Yes,NZL,Yes,Yes,Yes
+Oman,EMR,Eastern Mediterranean,Yes,OMN,Yes,Yes,Yes
+Mongolia,WPR,Western Pacific,Yes,MNG,Yes,Yes,Yes
+Zambia,AFR,Africa,Yes,ZMB,Yes,Yes,Yes
+Turkey,EUR,Europe,Yes,TUR,Yes,Yes,Yes
+Serbia,EUR,Europe,Yes,SRB,Yes,Yes,Yes
+Sierra Leone,AFR,Africa,No,SLE,Yes,Yes,Yes
+Denmark,EUR,Europe,Yes,DNK,Yes,Yes,Yes
+Italy,EUR,Europe,Yes,ITA,Yes,No,Yes
+Trinidad and Tobago,AMR,Americas,Yes,TTO,Don't know,Don't know,Yes
+Belgium,EUR,Europe,Yes,BEL,Yes,Yes,Yes
+Ukraine,EUR,Europe,Yes,UKR,Yes,Yes,Yes
+Liberia,AFR,Africa,No,LBR,Yes,Yes,Yes
+Grenada,AMR,Americas,No,GRD,Yes,Yes,Yes
+Tonga,WPR,Western Pacific,Yes,TON,Yes,Yes,Yes
+Latvia,EUR,Europe,Yes,LVA,Yes,Yes,Yes
+Austria,EUR,Europe,Yes,AUT,No,No,Yes
+Algeria,AFR,Africa,Yes,DZA,Yes,Yes,Yes
+Brunei Darussalam,WPR,Western Pacific,Yes,BRN,Yes,Yes,Yes
+Poland,EUR,Europe,Don't know,POL,Don't know,Yes,Yes
+Qatar,EMR,Eastern Mediterranean,Yes,QAT,Yes,Yes,Yes
+Jamaica,AMR,Americas,Yes,JAM,Yes,Yes,Yes
+Bangladesh,SEAR,South-East Asia,No,BGD,Yes,Yes,Yes
+Brazil,AMR,Americas,Yes,BRA,Yes,Yes,Yes
+Timor-Leste,SEAR,South-East Asia,Yes,TLS,Yes,Yes,Yes
+Namibia,AFR,Africa,No,NAM,No,Yes,No
+Norway,EUR,Europe,Yes,NOR,Yes,Yes,Yes
+Niger (the),AFR,Africa,No,NER,Yes,No,Yes
+Micronesia (Federated States of),WPR,Western Pacific,Yes,FSM,No,No,Yes
+Luxembourg,EUR,Europe,Yes,LUX,Yes,Yes,Yes
+Tuvalu,WPR,Western Pacific,No,TUV,Yes,Yes,Yes
+Panama,AMR,Americas,Yes,PAN,No,Yes,Yes
+Moldova (the Republic of),EUR,Europe,Yes,MDA,Yes,Yes,Yes
+Portugal,EUR,Europe,Yes,PRT,Yes,Yes,Yes
+Romania,EUR,Europe,Yes,ROU,Yes,Yes,Yes
+Rwanda,AFR,Africa,Yes,RWA,Yes,Yes,Yes
+Cuba,AMR,Americas,Yes,CUB,Yes,Yes,Yes
+Morocco,EMR,Eastern Mediterranean,Yes,MAR,No,Yes,Yes
+Switzerland,EUR,Europe,Yes,CHE,Yes,Yes,Yes
+Lesotho,AFR,Africa,Yes,LSO,Yes,Yes,Yes
+Maldives,SEAR,South-East Asia,No,MDV,No,No,No
+Cook Islands (the),WPR,Western Pacific,No,COK,Yes,Yes,Yes
+Syrian Arab Republic,EMR,Eastern Mediterranean,Yes,SYR,Yes,Yes,Yes
+Guyana,AMR,Americas,No,GUY,Yes,Yes,Yes
+Suriname,AMR,Americas,Yes,SUR,No,Yes,Yes
+Iraq,EMR,Eastern Mediterranean,Yes,IRQ,Yes,Yes,Yes
+Greece,EUR,Europe,Yes,GRC,Yes,Yes,Yes
+Burundi,AFR,Africa,Yes,BDI,No,No,Yes
+Singapore,WPR,Western Pacific,Yes,SGP,Yes,Yes,Yes
+Kiribati,WPR,Western Pacific,No,KIR,No,Yes,Yes
+United States of America (the),AMR,Americas,Yes,USA,Yes,Yes,Yes
+Tunisia,EMR,Eastern Mediterranean,Yes,TUN,Yes,Yes,Yes
+Bosnia and Herzegovina,EUR,Europe,Yes,BIH,Yes,Yes,Yes
+Venezuela (Bolivarian Republic of),AMR,Americas,Yes,VEN,Yes,Yes,Yes
+Uruguay,AMR,Americas,Yes,URY,No,Yes,Yes
+Palau,WPR,Western Pacific,Yes,PLW,Yes,Yes,Yes
+Jordan,EMR,Eastern Mediterranean,Yes,JOR,No,Yes,Yes
+Malta,EUR,Europe,Yes,MLT,No,No,No
+Chile,AMR,Americas,Yes,CHL,Yes,Yes,Yes
+El Salvador,AMR,Americas,Yes,SLV,Yes,Yes,Yes
+Bolivia (Plurinational State of),AMR,Americas,Yes,BOL,Yes,Yes,Yes
+Bhutan,SEAR,South-East Asia,Yes,BTN,Yes,Yes,Yes
+Slovakia,EUR,Europe,Yes,SVK,Yes,Yes,Yes
+Togo,AFR,Africa,No,TGO,No,Yes,Yes
+Malaysia,WPR,Western Pacific,Yes,MYS,Yes,Yes,Yes
+Burkina Faso,AFR,Africa,Yes,BFA,Yes,Yes,Yes
+Marshall Islands (the),WPR,Western Pacific,No,MHL,No,No,Yes
+Dominican Republic (the),AMR,Americas,Yes,DOM,Yes,Yes,Yes
+China,WPR,Western Pacific,Yes,CHN,Yes,Yes,Yes
+Gabon,AFR,Africa,No,GAB,No,No,No
+Saint Kitts and Nevis,AMR,Americas,Yes,KNA,Yes,Yes,Yes
+Croatia,EUR,Europe,Yes,HRV,Yes,Yes,Yes
+Congo (the Democratic Republic of the),AFR,Africa,No,COD,No,No,Don't know
+Haiti,AMR,Americas,Yes,HTI,Yes,Yes,Yes
+Equatorial Guinea,AFR,Africa,No,GNQ,No,No,No
+Georgia,EUR,Europe,Yes,GEO,Yes,Yes,Yes
+Comoros (the),AFR,Africa,No,COM,No,Yes,Yes
+Korea (the Democratic People's Republic of),SEAR,South-East Asia,No,PRK,No,Yes,Yes
+Costa Rica,AMR,Americas,Yes,CRI,Yes,Yes,Yes
+Cambodia,WPR,Western Pacific,Yes,KHM,No,No,Yes
+Philippines (the),WPR,Western Pacific,No,PHL,No,Yes,Yes
+Chad,AFR,Africa,No,TCD,No,No,No
+India,SEAR,South-East Asia,Yes,IND,Yes,Yes,Yes
+Czechia,EUR,Europe,Yes,CZE,Yes,Yes,Yes
+Seychelles,AFR,Africa,Yes,SYC,Yes,Yes,Yes
+Antigua and Barbuda,AMR,Americas,No,ATG,No,No,No
+Samoa,WPR,Western Pacific,Yes,WSM,Yes,Yes,Yes
+Andorra,EUR,Europe,No,AND,No,No,No
+Kyrgyzstan,EUR,Europe,Yes,KGZ,Yes,Yes,Yes
+Eritrea,AFR,Africa,No,ERI,No,No,Yes
+Honduras,AMR,Americas,Yes,HND,No,Yes,Yes
+Cameroon,AFR,Africa,No,CMR,No,No,No
+Mauritania,AFR,Africa,No,MRT,No,No,No
+Cabo Verde,AFR,Africa,No,CPV,No,Yes,Yes
+Mali,AFR,Africa,No,MLI,No,Yes,Yes
+Kuwait,EMR,Eastern Mediterranean,Yes,KWT,Yes,Yes,Yes
+Eswatini,AFR,Africa,Yes,SWZ,Yes,No,Yes
